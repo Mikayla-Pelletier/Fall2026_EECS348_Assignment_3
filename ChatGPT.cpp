@@ -1,3 +1,5 @@
+//This file is completly created by ChatGPT and is on this repository for helping graders visualize part d of the analysis.
+
 #include <iostream>
 #include <fstream>
 #include <sstream>
